@@ -23,5 +23,6 @@ Of course, I would like to see which column most affect to the medical cost. Als
 ## References
 
 https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41 
+This is the video link: https://youtu.be/ByL1-8TKFAY
 
 
